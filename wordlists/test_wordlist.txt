@@ -1,0 +1,7 @@
+sub1
+admin
+web
+mail
+nonexistent
+# 上の行はわざと空行
+test
