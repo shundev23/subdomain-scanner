@@ -90,6 +90,7 @@ test
 ## ライセンス
 このプロジェクトはMITライセンスの下でライセンスされています - 詳細は LICENSE ファイルをご覧ください。
 
+<a name="english"></a>
 
 # Simple Subdomain Scanner
 A simple Python tool to discover subdomains of a given domain using a wordlist. This tool performs DNS lookups to identify active subdomains.
